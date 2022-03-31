@@ -1,0 +1,66 @@
+body {
+  background-color:darkkhaki;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card {
+  display: flex;
+  background-color: white;
+  width: 20rem;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 20%;
+  box-shadow: 1px 1px 13px 1px rgba(0,0,0,0.76);
+  -webkit-box-shadow: 1px 1px 13px 1px rgba(0,0,0,0.76);
+  -moz-box-shadow: 1px 1px 13px 1px rgba(0,0,0,0.76);
+  border-radius: 5px;
+}
+
+.image {
+  position: relative;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+  width: 100%;
+}
+
+svg {
+  max-width: 30px;
+  color: white;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
+.content {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+span {
+  margin-top: -10px;
+}
+
+button {
+  height: 2.2rem;
+  background-color: #6200EE;
+  border-radius: 5px;
+  color: white;
+  border-width: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.gray {
+  color: rgba(0, 0, 0, 0.712);
+  font-size: 14px;
+}
+
+p.gray {
+  margin-top: 1px;
+}
+
+/* HORIZONTAL */
+/* Coming soon */
+
